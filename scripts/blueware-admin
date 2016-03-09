@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+
+import blueware.admin
+
+blueware.admin.main()

@@ -1,0 +1,10 @@
+blueware/packages/wrapt
+blueware
+blueware/packages/requests/packages/chardet
+blueware/packages/requests
+blueware/packages/requests/packages
+blueware/packages/requests/packages/urllib3/packages
+blueware/packages/requests/packages/urllib3/packages/ssl_match_hostname
+blueware/packages/requests/packages/urllib3/util
+blueware/packages
+blueware/packages/requests/packages/urllib3
